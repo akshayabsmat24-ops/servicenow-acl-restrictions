@@ -184,3 +184,6 @@ A user with the required `bb4` role is tested to verify Delete access.
 
 The project demonstrates how CREATE, WRITE, and DELETE ACLs can be used to control record-level access in ServiceNow using different user roles.
 
+## Demo Video
+
+[Watch the Project Demo Video](https://drive.google.com/file/d/1ePuCGLWRW9taiIu0jkTpce7Ghlsa6vCp/view?usp=drivesdk)
