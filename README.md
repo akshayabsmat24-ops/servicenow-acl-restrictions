@@ -100,6 +100,7 @@ A Record - Read ACL is created for the `u_institution_details` table.
     return false;
 })();
 
+
 ## CREATE ACL
 
 A Record - Create ACL is created for the `u_institution_details` table.
